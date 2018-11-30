@@ -1,5 +1,0 @@
-This is
-a
-
-sample text
-I Added a text in line 1 and 2!!!
